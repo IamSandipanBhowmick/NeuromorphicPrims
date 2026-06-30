@@ -21,7 +21,7 @@ This repository is an attempt to replicate and study the above work.
 
 The original paper uses the **SimSNN simulator**. However, this replication does **not require SimSNN**. Instead, the implementation is written independently to make the core ideas easier to understand, modify, and experiment with.
 
-In addition to replication, this repository also includes some extra work and extensions beyond the original study.
+In addition to replication, this repository includes additional work and extensions beyond the original study.
 
 ## Motivation
 
@@ -56,8 +56,11 @@ Collaborations, suggestions, corrections, and improvements are always welcome.
 
 ## Note
 
-The description and documentation of this repository were written with the help of ChatGPT, as I am still improving my English writing and communication skills.
+The description and documentation were written with the help of ChatGPT, as I am not great in English or in communication in general
 
+Any suggestions, corrections, or improvements are welcome.
+
+Thank you for visiting this repository.
 ## Acknowledgement
 
 I sincerely acknowledge the work of Janssen, Groenen, Reichert, and Kwisthout, whose paper motivated this replication study.
