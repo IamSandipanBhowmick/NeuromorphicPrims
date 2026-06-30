@@ -1,9 +1,9 @@
-# NeuromrophicPrims
+# NeuromorphicPrims
 # Neuromorphic Minimum Spanning Tree Replication
 
 Hello everyone,
 
-I am a neuromorphic computing enthusiast working on applied aspects of neuromorphic computing. I am especially interested in the intersection of **Theoretical Computer Science (TCS)** and **Neuromorphic Computing (NC)**.
+I am a neuromorphic computing enthusiast working on its theory and applied aspects. I am especially interested in the intersection of **Theoretical Computer Science (TCS)** and **Neuromorphic Computing (NC)**.
 
 My broader research interest is to push neuromorphic computing toward more general-purpose computation and to explore non-cognitive applications of neuromorphic systems.
 
@@ -15,6 +15,15 @@ One prominent researcher working at this intersection is **Dr. Johan Kwisthout**
 
 In this paper, Prim’s algorithm is analyzed from a neuromorphic computing perspective for solving the **Minimum Spanning Tree (MST)** problem using Spiking Neural Networks.
 
+The goal of the paper is to explore how classical graph algorithms can be studied and implemented from a neuromorphic computing perspective.
+
+In particular, the research direction  is motivated by questions such as:
+
+- Can classical algorithms be represented using spike-based computation?
+- How can graph problems, such as MST, be expressed in a neuromorphic setting?
+- What are the possible advantages and limitations of neuromorphic algorithms?
+- Can neuromorphic computing be pushed beyond cognitive tasks toward more general-purpose computation?
+
 ## About This Repository
 
 This repository is an attempt to replicate and study the above work.
@@ -23,16 +32,9 @@ The original paper uses the **SimSNN simulator**. However, this replication does
 
 In addition to replication, this repository includes additional work and extensions beyond the original study.
 
-## Motivation
 
-The goal of this repository is to explore how classical graph algorithms can be studied and implemented from a neuromorphic computing perspective.
 
-In particular, this work is motivated by questions such as:
 
-- Can classical algorithms be represented using spike-based computation?
-- How can graph problems such as MST be expressed in a neuromorphic setting?
-- What are the possible advantages and limitations of neuromorphic algorithms?
-- Can neuromorphic computing be pushed beyond cognitive tasks toward more general-purpose computation?
 
 ## Research Interest
 
@@ -44,9 +46,7 @@ I am interested in topics such as:
 - Spiking neural network models of computation
 - Energy-aware computation
 - Neuromorphic complexity theory
-- Graph algorithms in spiking neural systems
 - General-purpose neuromorphic computing
-- Non-cognitive applications of neuromorphic computing
 
 ## Contact
 
@@ -56,7 +56,7 @@ Collaborations, suggestions, corrections, and improvements are always welcome.
 
 ## Note
 
-The description and documentation were written with the help of ChatGPT, as I am not great in English or in communication in general
+The description and documentation were written with the help of ChatGPT, as I am not great at English or at communication in general
 
 Any suggestions, corrections, or improvements are welcome.
 
